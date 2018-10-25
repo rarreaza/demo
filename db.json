@@ -1,0 +1,25 @@
+[
+  {
+    "id": "11e2c7a7-1749-cac0-95f5-57902bc8cca3",
+    "name": "Mensaje de error cuando se utiliza el navegador equivocado",
+    "date_entered": "2016-07-21 01:52:59",
+    "date_modified": "2016-07-21 01:52:59",
+    "modified_user_id": 1,
+    "created_by": 1,
+    "description": "NULL",
+    "deleted": 0,
+    "case_number": 44,
+    "type": "Administration",
+    "status": "Closed",
+    "priority": "P1",
+    "resolution": "NULL",
+    "system_id": 1,
+    "work_log": "NULL",
+    "account_id": "ea68094d-2f37-a004-115e-57902ba12458",
+    "source": "NULL",
+    "portal_viewable": 1,
+    "assigned_user_id": "seed_chris_id",
+    "team_id": 1,
+    "team_set_id": "20ee1cb2-5273-8be2-968a-576bd8dee75f"
+  }
+]
